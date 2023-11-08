@@ -1,0 +1,1 @@
+# arq_exagonal_ejemplo02
