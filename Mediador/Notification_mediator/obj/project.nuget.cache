@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "W4PK7crx0fE2SI67eDG1NtBcesshS4TAhNP9QTaFPWW/OAd/bPzSTTLepdvKyt8LmTjmnqRzod4Pc3cuZsSZew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daniel.valenzuela\\Documents\\GitHub\\arq_exagonal_ejemplo02\\Mediador\\Notification_mediator\\Notification_mediator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daniel.valenzuela\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\daniel.valenzuela\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\daniel.valenzuela\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\daniel.valenzuela\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\daniel.valenzuela\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\daniel.valenzuela\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
